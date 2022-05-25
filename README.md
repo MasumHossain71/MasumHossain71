@@ -1,7 +1,7 @@
 WELCOME[![MasterHead](https://thumbs.gfycat.com/ColorlessBitesizedKob-max-1mb.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Masum Hossain</h1>
 <h3 align="center">I Want to be a front & Backend developer from Bangladesh.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75193540/156818786-1dc5df82-3864-4628-a77d-c34f8c6ceeeb.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masumhossain71&label=Profile%20views&color=0e75b6&style=flat" alt="masumhossain71" /> </p>
 <h3>ABOUT ME:-</h3>
